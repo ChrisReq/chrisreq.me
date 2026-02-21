@@ -103,7 +103,7 @@ export default defineConfig({
       manifest: {
         name: "Chris Requardt",
         short_name: "chrisreq",
-        description: "Leidenschaftlicher AI-Nutzer. Ich baue, wonach mir gerade ist.",
+        description: "Passionate AI user. I build whatever I feel like.",
         theme_color: "#006cac",
         background_color: "#fdfdfd",
         display: "standalone",
