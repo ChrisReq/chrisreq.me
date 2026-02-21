@@ -20,7 +20,7 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 ---
 
-<Layout description="Chris Requardt – leidenschaftlicher AI-Nutzer. Ich baue, wonach mir gerade ist.">
+<Layout description="Chris Requardt – passionate AI user. I build whatever I feel like.">
   <StructuredData type="WebSite" data={{}} />
   <StructuredData type="Person" data={{}} />
   <Header />
@@ -37,7 +37,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         <div class="flex-1 text-center sm:text-left">
           <div class="flex items-center gap-2 justify-center sm:justify-start">
             <h1 class="my-2 inline-block text-2xl font-bold sm:my-4 sm:text-3xl">
-              Hi, ich bin Chris.
+              Hi, I'm Chris.
             </h1>
             <a
               target="_blank"
@@ -55,8 +55,8 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
             </a>
           </div>
           <p>
-            Leidenschaftlicher AI-Nutzer – ich baue, wonach mir gerade ist.<br />
-            Hier teile ich Gedanken, Experimente und was mich gerade beschäftigt.
+            Passionate AI user – I build whatever I feel like.<br />
+            Here I share thoughts, experiments, and whatever's on my mind.
           </p>
           {
             // only display if at least one social link is enabled
@@ -103,7 +103,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 
     <div class="my-8 text-center">
       <LinkButton href="/posts/">
-        Alle Beiträge
+        All Posts
         <IconArrowRight class="inline-block" />
       </LinkButton>
     </div>

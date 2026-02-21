@@ -34,7 +34,7 @@ export const SITE: Site = {
   website: "https://chrisreq.me/",
   author: "Chris Requardt",
   profile: "https://chrisreq.me/about",
-  desc: "Leidenschaftlicher AI-Nutzer. Ich baue, wonach mir gerade ist.",
+  desc: "Passionate AI user. I build whatever I feel like.",
   title: "Chris Requardt",
   ogImage: "chris-avatar.jpg",
   lightAndDarkMode: true,
@@ -49,7 +49,7 @@ export const SITE: Site = {
     url: "https://github.com/ChrisReq/chrisreq.me/edit/main/",
   },
   dynamicOgImage: true,
-  lang: "de",
+  lang: "en",
   timezone: "Europe/Berlin",
 };
 
