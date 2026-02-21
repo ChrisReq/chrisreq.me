@@ -16,24 +16,24 @@ if (type === "BlogPosting") {
     description: data.description,
     author: {
       "@type": "Person",
-      name: data.author || "Peter Steinberger",
-      url: "https://steipete.me/about",
+      name: data.author || "Chris Requardt",
+      url: "https://chrisreq.me/about",
     },
     datePublished: data.pubDatetime.toISOString(),
     dateModified: data.modDatetime?.toISOString() || data.pubDatetime.toISOString(),
     publisher: {
       "@type": "Person",
-      name: "Peter Steinberger",
+      name: "Chris Requardt",
       logo: {
         "@type": "ImageObject",
-        url: "https://steipete.me/peter-avatar.jpg",
+        url: "https://chrisreq.me/chris-avatar.jpg",
       },
     },
     mainEntityOfPage: {
       "@type": "WebPage",
       "@id": data.url,
     },
-    image: data.ogImage || "https://steipete.me/peter-avatar.jpg",
+    image: data.ogImage || "https://chrisreq.me/chris-avatar.jpg",
     articleSection: data.tags?.[0] || "Technology",
     keywords: data.tags?.join(", ") || "",
     wordCount: data.wordCount,
@@ -43,33 +43,34 @@ if (type === "BlogPosting") {
   structuredData = {
     "@context": "https://schema.org",
     "@type": "Person",
-    name: "Peter Steinberger",
-    url: "https://steipete.me",
-    image: "https://steipete.me/peter-avatar.jpg",
+    name: "Chris Requardt",
+    url: "https://chrisreq.me",
+    image: "https://chrisreq.me/chris-avatar.jpg",
     sameAs: [
-      "https://github.com/steipete",
-      "https://twitter.com/steipete",
-      "https://bsky.app/profile/steipete.me",
+      "https://github.com/ChrisReq",
+      "https://www.linkedin.com/in/chrisrequardt/",
+      "https://www.threads.com/@chrisrequardt",
+      "https://www.youtube.com/@Digi_Entrepreneur",
     ],
-    jobTitle: "Software Engineer",
+    jobTitle: "AI Enthusiast & Maker",
     description:
-      "AI-powered tools from Swift roots to web frontiers. Every commit lands on GitHub for you to fork & remix.",
+      "Leidenschaftlicher AI-Nutzer. Ich baue, wonach mir gerade ist.",
   };
 } else if (type === "WebSite") {
   structuredData = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    name: "Peter Steinberger",
-    url: "https://steipete.me",
+    name: "Chris Requardt",
+    url: "https://chrisreq.me",
     description:
-      "AI-powered tools from Swift roots to web frontiers. Every commit lands on GitHub for you to fork & remix.",
+      "Leidenschaftlicher AI-Nutzer. Ich baue, wonach mir gerade ist.",
     author: {
       "@type": "Person",
-      name: "Peter Steinberger",
+      name: "Chris Requardt",
     },
     potentialAction: {
       "@type": "SearchAction",
-      target: "https://steipete.me/search?q={search_term_string}",
+      target: "https://chrisreq.me/search?q={search_term_string}",
       "query-input": "required name=search_term_string",
     },
   };
