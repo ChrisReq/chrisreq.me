@@ -31,12 +31,12 @@ interface Site {
 
 // Site configuration
 export const SITE: Site = {
-  website: "https://steipete.me/",
-  author: "Peter Steinberger",
-  profile: "https://steipete.me/about",
-  desc: "AI-powered tools from Swift roots to web frontiers. Every commit lands on GitHub for you to fork & remix.",
-  title: "Peter Steinberger",
-  ogImage: "peter-avatar.jpg",
+  website: "https://chrisreq.me/",
+  author: "Chris Requardt",
+  profile: "https://chrisreq.me/about",
+  desc: "Leidenschaftlicher AI-Nutzer. Ich baue, wonach mir gerade ist.",
+  title: "Chris Requardt",
+  ogImage: "chris-avatar.jpg",
   lightAndDarkMode: true,
   postPerIndex: 10,
   postPerPage: 10,
@@ -44,13 +44,13 @@ export const SITE: Site = {
   showArchives: false,
   showBackButton: false,
   editPost: {
-    enabled: true,
+    enabled: false,
     text: "Edit on GitHub",
-    url: "https://github.com/steipete/steipete.me/edit/main/",
+    url: "https://github.com/ChrisReq/chrisreq.me/edit/main/",
   },
   dynamicOgImage: true,
-  lang: "en",
-  timezone: "America/Los_Angeles",
+  lang: "de",
+  timezone: "Europe/Berlin",
 };
 
 export const SITE_TITLE = SITE.title;
@@ -71,16 +71,20 @@ export const NAV_LINKS: SocialLink[] = [
 // Social media links
 export const SOCIAL_LINKS: SocialLink[] = [
   {
-    href: "https://github.com/steipete",
+    href: "https://github.com/ChrisReq",
     label: "GitHub",
   },
   {
-    href: "https://twitter.com/steipete",
-    label: "Twitter",
+    href: "https://www.linkedin.com/in/chrisrequardt/",
+    label: "LinkedIn",
   },
   {
-    href: "https://bsky.app/profile/steipete.me",
-    label: "BlueSky",
+    href: "https://www.threads.com/@chrisrequardt",
+    label: "Threads",
+  },
+  {
+    href: "https://www.youtube.com/@Digi_Entrepreneur",
+    label: "YouTube",
   },
   {
     href: "/rss.xml",
@@ -91,8 +95,9 @@ export const SOCIAL_LINKS: SocialLink[] = [
 // Icon map for social media
 export const ICON_MAP: Record<string, string> = {
   GitHub: "github",
-  Twitter: "twitter",
-  BlueSky: "bsky",
+  LinkedIn: "linkedin",
+  Threads: "threads",
+  YouTube: "youtube",
   RSS: "rss",
   Email: "mail",
 };
