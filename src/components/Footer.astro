@@ -15,10 +15,12 @@ const { noMarginTop = false } = Astro.props;
     class="flex flex-col items-center justify-between py-6 sm:flex-row-reverse sm:py-4"
   >
     <Socials centered />
-    <div class="my-2 flex flex-col items-center whitespace-nowrap sm:flex-row">
+    <div class="my-2 flex flex-col items-center whitespace-nowrap sm:flex-row sm:gap-3">
       <a href="https://github.com/ChrisReq/chrisreq.me" target="_blank" rel="noopener noreferrer" class="hover:text-accent">
         chrisreq.me
       </a>
+      <span class="hidden sm:inline opacity-40">·</span>
+      <span class="opacity-60 text-sm">Based on <a href="https://steipete.me" target="_blank" rel="noopener noreferrer" class="hover:text-accent">steipete.me</a></span>
     </div>
   </div>
 </footer>
