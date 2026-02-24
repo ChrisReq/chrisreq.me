@@ -38,7 +38,7 @@ export const SITE: Site = {
   title: "Chris Requardt",
   ogImage: "chris-avatar.jpg",
   lightAndDarkMode: true,
-  postPerIndex: 10,
+  postPerIndex: 5,
   postPerPage: 10,
   scheduledPostMargin: 15 * 60 * 1000,
   showArchives: false,
