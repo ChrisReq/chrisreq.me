@@ -1,41 +1,41 @@
 ---
-title: "Hallo, ich bin Chris"
+title: "Hi, I'm Chris"
 pubDatetime: 2026-02-24T12:00:00+01:00
-description: "Wer ich bin, was mich antreibt und warum ich diesen Blog gestartet habe – eine persönliche Vorstellung."
+description: "Who I am, what drives me, and why I started this blog – a personal introduction."
 featured: true
 tags:
-  - allgemein
-  - vorstellung
+  - general
+  - introduction
 ---
 
-Irgendwo muss man anfangen – und was liegt näher als ein ehrliches „Hallo"?
+Every journey starts somewhere – and what better place than an honest "hello"?
 
-Ich bin Chris. Leidenschaftlicher Technik-Freak, Macher aus Überzeugung und jemand, der es einfach nicht lassen kann, Dinge zu bauen, die vorher noch nicht existiert haben. Wenn andere abends Netflix schauen, sitze ich meistens mit einem offenen Terminal und einer Idee, die mich nicht loslässt.
+I'm Chris. Passionate tech nerd, builder by conviction, and someone who simply can't stop creating things that didn't exist before. While others wind down with Netflix in the evening, I'm usually staring at an open terminal, chasing an idea that won't let me go.
 
-## Bauen. Schaffen. Ausprobieren.
+## Build. Create. Explore.
 
-Mich zieht es seit jeher zu allem hin, was neu ist – neue Technologien, neue Konzepte, neue Möglichkeiten. Besonders fasziniert mich dabei, wie weit sich Künstliche Intelligenz in der Produktentwicklung tatsächlich treiben lässt. Nicht auf dem Papier, nicht in Demos – sondern in echten, funktionierenden Dingen. Die Grenzen auszuloten, zu scheitern, wieder anzufangen und am Ende etwas zu haben, das vorher so noch nicht da war: Das ist für mich das, wofür es sich lohnt, morgens den Rechner aufzuklappen.
+I've always been drawn to everything new – new technologies, new concepts, new possibilities. What fascinates me most is pushing the boundaries of what artificial intelligence can actually do in the context of product development. Not on paper, not in polished demos – but in real, working things. Probing the limits, failing, starting over, and ending up with something that simply wasn't there before: that's what makes it worth opening the laptop in the morning.
 
-KI ist für mich kein Buzzword. Es ist ein Werkzeug – das spannendste, das mir in meiner Zeit als Tech-Enthusiast jemals begegnet ist. Und ich versuche, es konsequent bis an die Grenzen des Machbaren einzusetzen, gerade im Bereich der Produktentwicklung.
+AI isn't a buzzword to me. It's a tool – the most exciting one I've ever come across as a tech enthusiast. And I'm determined to push it as far as possible, especially when it comes to building products.
 
-## Zwei Jahrzehnte Ausbildung und Lehre
+## Two Decades of Training and Teaching
 
-Neben meiner Leidenschaft für Technologie hat mein Berufsleben lange einen ganz anderen, aber ebenso prägenden Schwerpunkt gehabt: Menschen ausbilden. Über 20 Jahre war ich beim Militär tätig – ein großer Teil davon in der Ausbildung und Lehre. Ich habe Menschen in ihrer Entwicklung begleitet, Wissen weitergegeben, Strukturen aufgebaut und gelernt, was es wirklich bedeutet, jemanden nicht nur zu unterrichten, sondern zu befähigen.
+Alongside my passion for technology, a large part of my professional life has been shaped by a very different but equally meaningful focus: developing people. For over 20 years I served in the military, with a significant portion of that time spent in training and education. I guided people through their development, passed on knowledge, built structures, and learned what it truly means to not just teach someone – but to empower them.
 
-Diese Zeit hat mich mehr geprägt, als mir damals bewusst war. Pädagogik, Didaktik, Führung, Verantwortung – das klingt nach Theorie, ist aber im militärischen Alltag knallharte Praxis. Und genau diese Erfahrung nehme ich mit in alles, was ich heute tue.
+That time shaped me more than I realized back then. Pedagogy, leadership, responsibility – it sounds like theory, but in a military environment it's hands-on, daily practice. That experience informs everything I do today.
 
-## Warum dieser Blog?
+## Why This Blog?
 
-Weil ich das Teilen vermisse.
+Because I missed sharing.
 
-Weil ich über die Jahre gemerkt habe, dass die spannendsten Gespräche immer dann entstehen, wenn Menschen offen über das reden, was sie wirklich beschäftigt – nicht nur die Erfolge, sondern auch die Irrwege, die Erkenntnisse, die Fragen, die noch keine Antwort haben.
+Over the years I've noticed that the most interesting conversations happen when people talk openly about what actually occupies them – not just the wins, but the detours, the insights, and the questions that still don't have an answer.
 
-Hier auf diesem Blog möchte ich genau das tun. Ich schreibe über Technologie und KI, über Produktentwicklung und die Frage, wie man Ideen wirklich zum Leben erweckt. Ich schreibe über Ausbildung und Lernen – weil mich das Thema nicht losgelassen hat. Und ich schreibe über das, was mich privat bewegt: Pläne, Eindrücke, Dinge, die ich gerade ausprobiere oder über die ich einfach nachdenken musste.
+That's exactly what I want to do here. I'll write about technology and AI, about product development and what it really takes to bring ideas to life. I'll write about training and learning – because that topic never let me go. And I'll write about what moves me personally: plans, impressions, things I'm currently experimenting with or simply needed to think through out loud.
 
-Kein Filter. Kein perfekt polierter Content-Plan. Nur ehrliche Gedanken von jemandem, der viel erlebt hat und noch mehr vorhat.
+No filter. No perfectly polished content calendar. Just honest thoughts from someone who has experienced a lot and has even more ahead.
 
 ---
 
-Wenn dich das anspricht – ich freue mich über jeden, der mitliest, mitdenkt und sich einbringt. Schreib mir, kommentier, folge, widersprich. Guter Austausch entsteht selten im Monolog.
+If any of this resonates with you – I'd love to have you along. Write to me, comment, follow, push back. Good conversations rarely happen in monologues.
 
-Willkommen auf chrisreq.me. Schön, dass du da bist.
+Welcome to chrisreq.me. Glad you're here.
