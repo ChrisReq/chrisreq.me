@@ -16,7 +16,6 @@ import getSortedPosts from "@/utils/getSortedPosts";
 const posts = await getCollection("blog");
 
 const sortedPosts = getSortedPosts(posts);
-const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.slice(0, SITE.postPerIndex);
 ---
 
@@ -71,22 +70,6 @@ const recentPosts = sortedPosts.slice(0, SITE.postPerIndex);
     </section>
 
     <Hr />
-
-    {
-      featuredPosts.length > 0 && (
-        <>
-          <section id="featured" class="pt-12 pb-6">
-            <h2 class="text-2xl font-semibold tracking-wide">Featured</h2>
-            <ul>
-              {featuredPosts.map((data) => (
-                <Card variant="h3" {...data} showImage={false} />
-              ))}
-            </ul>
-          </section>
-          {recentPosts.length > 0 && <Hr />}
-        </>
-      )
-    }
 
     {
       recentPosts.length > 0 && (
